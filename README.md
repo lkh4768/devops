@@ -86,7 +86,7 @@ $ source /etc/default/locale
 > ...
 > 이 취약점을 통한 공격이 작동하려면 사용자가 서버에 액세스할 수 있어야 하고 sudo 명령어를 실행할 수 있어야 한다고 덧붙였다. sudo 1.7.10부터 1.7.10p9 사이, sudo 1.8.5부터 1.8.20p1 사이 버전에 취약점이 존재한다.
 
-[1.8.20p2 버전으로 업그레이드](https://dev.sw-warehouse.xyz:1744/wes/Ops/blob/master/upgrade_sudo.sh)
+[1.8.20p2 버전으로 업그레이드](https://github.com/lkh4768/devops/blob/master/upgrade_sudo.sh)
 
 
 
